@@ -12,7 +12,7 @@ Visualization: Present insights through bar charts, line plots, and heatmaps.
 Recommendations: Provide actionable recommendations based on the EDA.
 
 ## Data used
--<a href="https://github.com/SayidTofa/-Exploratory-Data-Analysis-EDA-on-Retail-Sales-Data/blob/main/README.md">dateset</a>
+<a href="https://github.com/SayidTofa/-Exploratory-Data-Analysis-EDA-on-Retail-Sales-Data/blob/main/README.md">dateset</a>
 
 
 
