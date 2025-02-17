@@ -17,7 +17,7 @@ Visualization: Present insights through bar charts, line plots, and heatmaps.
 Recommendations: Provide actionable recommendations based on the EDA.
 
 
-##Insights:
+## Insights:
 Data Overview: The dataset contains 1000 rows and 9 columns, including transaction details like Transaction ID, Date, Customer ID, Gender, Age, Product Category, Quantity, Price per Unit, and Total Amount.
 
 Data Quality: The dataset has no missing values, ensuring completeness and reliability for analysis.
@@ -28,7 +28,7 @@ Revenue Insights: The total revenue generated from the dataset is 456,000 units,
 
 Customer Demographics: The average customer age is around 41 years, with a standard deviation of 13.68, indicating a diverse age group.
 
-##Recommendations:
+## Recommendations:
 Targeted Marketing: Focus on promoting Beauty products to female customers, as they show a higher preference for this category.
 
 Inventory Management: Ensure sufficient stock for Clothing and Electronics, as these are the top-selling categories.
