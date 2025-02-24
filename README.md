@@ -1,3 +1,22 @@
+## Table of Contents
+- [Project Description](#project-description)
+- [Project Objectives](#project-objectives)
+  - [Sales Trend Analysis](#sales-trend-analysis)
+  - [Customer Segmentation](#customer-segmentation)
+  - [Product Performance](#product-performance)
+  - [Revenue Optimization](#revenue-optimization)
+  - [Inventory Management](#inventory-management)
+- [Insights](#insights)
+  - [Product Category Contributions](#product-category-contributions)
+  - [Customer Demographics](#customer-demographics)
+  - [Sales Periodicity](#sales-periodicity)
+  - [Gender-Based Purchasing Behavior](#gender-based-purchasing-behavior)
+- [Recommendations](#recommendations)
+  - [Targeted Promotions](#targeted-promotions)
+  - [Seasonal Inventory Planning](#seasonal-inventory-planning)
+  - [Pricing Strategy](#pricing-strategy)
+  - [Loyalty Programs](#loyalty-programs)
+  - [Data-Driven Decision Making](#data-driven-decision-making)
 
 
 
