@@ -1,3 +1,18 @@
+## Table of Contents
+- [Description](#description)
+- [Project Objectives](#project-objectives)
+  - [Data Loading and Cleaning](#data-loading-and-cleaning)
+  - [Descriptive Statistics](#descriptive-statistics)
+  - [Time Series Analysis](#time-series-analysis)
+  - [Customer and Product Analysis](#customer-and-product-analysis)
+  - [Visualization](#visualization)
+  - [Recommendations](#recommendations)
+- [Insights](#insights)
+  - [Data Overview](#data-overview)
+  - [Data Quality](#data-quality)
+  - [Product Category Analysis](#product-category-analysis)
+
+
 ## Project Description:
 
 The Retail Sales Analysis project examines transaction records from a retail business to uncover trends, customer behaviors, and sales performance. By analyzing product categories, customer demographics, and purchase patterns, this project provides valuable insights into optimizing sales strategies and inventory management.
