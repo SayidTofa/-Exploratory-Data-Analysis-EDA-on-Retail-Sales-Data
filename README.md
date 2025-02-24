@@ -6,11 +6,11 @@
   - [Time Series Analysis](#time-series-analysis)
   - [Customer and Product Analysis](#customer-and-product-analysis)
   - [Visualization](#visualization)
-  - [Recommendations](#recommendations)
-- [Insights](#insights)
+  - [Insights](#insights)
   - [Data Overview](#data-overview)
   - [Data Quality](#data-quality)
   - [Product Category Analysis](#product-category-analysis)
+  -   [Recommendations](#recommendations)
 
 
 ## Project Description:
