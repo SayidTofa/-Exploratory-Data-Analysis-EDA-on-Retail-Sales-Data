@@ -10,7 +10,7 @@
   - [Data Overview](#data-overview)
   - [Data Quality](#data-quality)
   - [Product Category Analysis](#product-category-analysis)
-  -   [Recommendations](#recommendations)
+  - [Recommendations](#recommendations)
 
 
 ## Project Description:
